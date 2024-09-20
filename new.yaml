@@ -1,0 +1,6 @@
+train: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/cropped/images/train
+val: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/cropped/images/val
+test: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/cropped/images/test
+
+nc: 10  # Number of classes
+names: ['person','hard-hat', 'gloves', 'mask', 'glasses', 'boots', 'vest', 'ppe-suit', 'ear-protector', 'safety-harness']

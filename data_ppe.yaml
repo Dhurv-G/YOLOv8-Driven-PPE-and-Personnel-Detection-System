@@ -1,0 +1,5 @@
+train: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/ppe/images/train
+val: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/ppe/images/val
+test: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/ppe/images/test
+nc: 10
+names: ['person','hard-hat', 'gloves', 'mask', 'glasses', 'boots', 'vest', 'ppe-suit', 'ear-protector', 'safety-harness']

@@ -1,0 +1,23 @@
+description: Ultralytics best model trained on data_ppe1.yaml
+author: Ultralytics
+date: '2024-08-13T22:17:33.198797'
+version: 8.2.76
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: person
+  1: hard-hat
+  2: gloves
+  3: mask
+  4: glasses
+  5: boots
+  6: vest
+  7: ppe-suit
+  8: ear-protector
+  9: safety-harness

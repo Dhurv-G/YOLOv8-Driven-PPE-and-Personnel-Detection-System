@@ -1,0 +1,6 @@
+# path: ./datasets
+train: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/person/images/train
+val: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/person/images/val
+test: C:/Users/asus/OneDrive/Documents/VScode/Syook/datasets/person/images/test
+nc: 1
+names: ['person']
